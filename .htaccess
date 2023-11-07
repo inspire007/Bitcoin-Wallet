@@ -1,0 +1,7 @@
+<Files "public.pem">
+deny from all
+</Files>
+
+<Files "private.pem">
+deny from all
+</Files>

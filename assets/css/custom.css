@@ -1,0 +1,195 @@
+textarea, input {
+	font-family: 'Open Sans', sans-serif;
+}
+.send_amount_edit {
+	cursor: pointer;
+}
+.ltd-status .header {
+	font-size:18px;	
+}
+
+.ltd-status .number {
+	font-size:24px;
+	font-weight:bold;	
+}
+
+.login_column {
+    max-width: 450px;
+}
+
+.tr_table_date_date {
+	font-size: 20px;	
+}
+
+.tr_table_date_time {
+	font-size: 14px;
+	color: gray;
+}
+
+.tr_table_amount {
+	font-size: 24px;
+	text-align: left !important;	
+}
+
+.tr_table_amount_big {
+	width: 40%;	
+}
+
+.tr_table .up {
+	color: red;
+	font-size: 24px;
+}
+
+.tr_table .down {
+	color: green;
+	font-size: 24px;
+}
+
+.tr_table .plus {
+	cursor: pointer;
+}
+
+.tr_table td {
+	padding: 7px !important;	
+}
+
+.tr_table_details_btn {
+	text-align:right !important;
+}
+
+.header_btc_rate {
+	font-family: Lato,'Helvetica Neue',Arial,Helvetica,sans-serif !important;
+	font-size: 14px !important;
+}
+
+.header_btc_rate_num {
+	font-size:20px;
+}
+
+.home_big_balance {
+	font-size: 30px;
+}
+.pay_info_table {
+	text-align:left;
+}
+td, .bwrap, .pay_info_table {
+	white-space: -moz-pre-wrap !important;  /* Mozilla, since 1999 */
+	white-space: -webkit-pre-wrap; /*Chrome & Safari */ 
+	white-space: -pre-wrap;      /* Opera 4-6 */
+	white-space: -o-pre-wrap;    /* Opera 7 */
+	white-space: pre-wrap;       /* css-3 */
+	word-wrap: break-word;       /* Internet Explorer 5.5+ */
+	word-break: break-all;
+	white-space: normal;
+}
+
+.payment_col {
+	margin-top: 50px !important;
+	max-width: 700px;
+}
+
+.payment_col label {
+	text-align: left;
+}
+
+.payment_col .massive {
+	text-align: center;
+}
+
+.payment_req_textbox {
+	width: 100%;
+}
+
+.alias_name {
+	font-family: 'Pacifico', cursive;
+	font-size: 24px;
+}
+
+.tr_table .minus {
+	cursor: pointer;
+	display: none;
+}
+
+.tr_table, .tr_table tr, .tr_table td {
+	border: none !important;
+}
+
+.tr_details_div {
+	display: none;
+}
+
+.tr_details .header {
+	font-size: 17px;
+}
+
+body > .login_grid {
+  height: 100%;
+}
+
+.hidden.menu {
+  display: none;
+}
+
+.masthead.segment {
+  
+  padding: 1em 0;
+}
+.masthead .logo.item img {
+  margin-right: 1em;
+}
+.masthead .ui.menu .ui.button {
+  margin-left: 0.5em;
+}
+
+.btc_bal_image {
+	width: 40px !important;
+	height: 40px !important;
+}
+
+.ui.vertical.stripe {
+  padding: 8em 0;
+}
+.ui.vertical.stripe .floated.image {
+  clear: both;
+}
+.ui.vertical.stripe p {
+  font-size: 1.33em;
+}
+.ui.vertical.stripe .horizontal.divider {
+  margin: 3em 0;
+}
+
+.quote.stripe.segment {
+  padding: 0;
+}
+.quote.stripe.segment .grid .column {
+  padding-top: 5em;
+  padding-bottom: 5em;
+}
+
+.footer.segment {
+  padding: 5em 0;
+}
+
+.secondary.pointing.menu .toc.item {
+  display: none;
+}
+
+@media only screen and (max-width: 600px) {
+  .ui.fixed.menu {
+	display: none !important;
+  }
+  .secondary.pointing.menu .item,
+  .secondary.pointing.menu .menu {
+	display: none;
+  }
+  .secondary.pointing.menu .toc.item {
+	display: block;
+  }
+  .masthead.segment {
+	min-height: 350px;
+  }
+}
+
+
+

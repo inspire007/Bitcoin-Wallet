@@ -1,0 +1,175 @@
+[24-Feb-2019 00:36:58] Request failed : <!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="stylesheet" href="/s/css/reset.css?v=201902211400" type="text/css"/>
+        <link rel="stylesheet" href="/s/css/footer.css?v=201902211400" type="text/css"/>
+        <link rel="stylesheet" href="/s/css/error_page.css?v=201902211400" type="text/css"/>
+        <title>Bitstamp</title>
+    </head>
+    <body>
+        <div id="error-page">
+            <h1>
+                <a href="/">Bitstamp</a>
+            </h1>
+            <p class="text-small margin-top-1">404 error</p>
+            <p class="text-large">...aaaaaand it's gone.</p>
+            <p class="text-small margin-top-2">Page not found. The requested url was not found on our servers.</p>
+        </div>
+        <div id="candlesticks"></div>
+        <div id="footer">
+    <ol id="links">
+        <li>
+            <h4>ADDRESS</h4>
+            <ol>
+                <li>Bitstamp Ltd</li>
+                <li>5 New Street Square</li>
+                <li>London EC4A 3TW</li>
+                <li>United Kingdom</li>
+            </ol>
+        </li>
+        <li>
+            <h4>ABOUT US</h4>
+            <ol>
+                <li><a href="/about_us/">Who We Are</a></li>
+                <li><a href="/fee_schedule/">Fee Schedule</a></li>
+                <li><a href="/terms-of-use/">Terms of Use</a></li>
+                <li><a href="/privacy-policy/">Privacy Policy</a></li>
+                <li><a href="/aml-policy/">AML Policy</a></li>
+            </ol>
+        </li>
+        <li>
+            <h4>HELP</h4>
+            <ol>
+                <li><a href="/help/how-to-verify-your-personal-bitstamp-account/">How to Verify your Personal Bitstamp Account?</a></li>
+                <li><a href="/help/help-how-to-make-your-first-deposit/">How to make your first deposit?</a></li>
+                <li><a href="/help/how-to-buy-bitcoin-at-bitstamp/">How to buy Bitcoin at Bitstamp?</a></li>
+                <li><a href="/faq/">FAQ</a></li>
+                <li><a href="/pgp_key/">PGP Key</a></li>
+            </ol>
+        </li>
+        <li>
+            <h4>CONTACT US</h4>
+            <ol>
+                <li><a href="mailto:info@bitstamp.net">info@bitstamp.net</a></li>
+                <li><a href="mailto:press@bitstamp.net">press@bitstamp.net</a></li>
+                <li><a href="mailto:support@bitstamp.net">support@bitstamp.net</a></li>
+                <li><a href="mailto:complaints@bitstamp.net">complaints@bitstamp.net</a></li>
+                <li><a href="tel:+442038689628">+44 20 3868 9628</a></li>
+                <li><a href="tel:+16465689784">+1 646 568 9784</a></li>
+				<li><a href="tel:+35220881096">+352 20 88 10 96</a></li>
+            </ol>
+        </li>
+        <li>
+            <h4>TOOLS</h4>
+            <ol>
+                <li><a href="/">Overview</a></li>
+                <li><a href="/api/">API</a></li>
+            </ol>
+        </li>
+    </ol>
+    <ol id="footer-bottom">
+        <li>2019 Bitstamp Ltd.</li>
+        <li id="credit-cards">
+            <img src="/s/icons/visa_logo.svg" class="visa-logo-footer" alt="visa logo">
+            <img src="/s/icons/mastercard_logo.svg" class="mastercard-logo-footer" alt="mastercard logo">
+        </li>
+        <li id="social">
+            <a href="https://twitter.com/Bitstamp" target="_blank"><img src="/s/icons/twitter_logo.svg" class="twitter-logo-footer" alt="twitter logo"></a>
+            <a href="https://www.linkedin.com/company/bitstamp" target="_blank"><img src="/s/icons/linkedin_logo.svg" class="linkedin-logo-footer" alt="linkedin logo"></a>
+            <a href="https://www.facebook.com/Bitstamp" target="_blank"><img src="/s/icons/facebook_logo.svg" class="facebook-logo-footer" alt="facebook logo"></a>
+        </li>
+        <li id="bitcoin">
+            <img src="/s/icons/serving_logo.svg" class="serving-logo-footer" alt="serving bitcoin industry since 2011 icon">
+        </li>
+        <li id="first">
+            <img src="/s/icons/over-3million-users-footer.svg" class="over-million-footer" alt="over 3 million users icon">
+        </li>
+    </ol>
+</div>
+<div id="footer-mobile">
+    <ol id="links-mobile">
+        <li>
+            <h4>ADDRESS</h4>
+            <ol>
+                <li>Bitstamp Ltd</li>
+                <li>5 New Street Square, London EC4A 3TW</li>
+                <li>United Kingdom</li>
+            </ol>
+        </li>
+        <li class="top-border inline-list">
+            <h4>ABOUT US</h4>
+            <ol>
+                <li><a href="/about_us/">Who We Are</a></li>
+                <li><span class="dot">&middot;</span></li>
+                <li><a href="/fee_schedule/">Fee Schedule</a></li>
+                <li><span class="dot">&middot;</span></li>
+                <li><a href="/terms-of-use/">Terms of Use</a></li>
+                <li><span class="dot">&middot;</span></li>
+                <li><a href="/privacy-policy/">Privacy Policy</a></li>
+                <li><span class="dot">&middot;</span></li>
+                <li><a href="/aml-policy/">AML Policy</a></li>
+            </ol>
+        </li>
+        <li class="top-border inline-list">
+            <h4>CONTACTS</h4>
+            <ol>
+                <li><a href="mailto:info@bitstamp.net">info@bitstamp.net</a></li><span class="dot-small">&middot;</span>
+                <li><a href="mailto:press@bitstamp.net">press@bitstamp.net</a></li><span class="dot-small">&middot;</span>
+                <li><a href="mailto:support@bitstamp.net">support@bitstamp.net</a></li><span class="dot-small">&middot;</span>
+                <li><a href="mailto:complaints@bitstamp.net">complaints@bitstamp.net</a></li>
+                <li><a href="tel:+442038689628">+44 20 3868 9628</a></li>
+                <li><a href="tel:+16465689784">+1 646 568 9784</a></li>
+				<li><a href="tel:+35220881096">+352 20 88 10 96</a></li>
+            </ol>
+        </li>
+        <li class="top-border inline-list">
+            <h4>HELP</h4>
+            <ol>
+                <li><a href="/help/how-to-verify-your-personal-bitstamp-account/">How to Verify your Personal Bitstamp Account?</a></li>
+                <li><span class="dot">&middot;</span></li>
+                <li><a href="/help/help-how-to-make-your-first-deposit/">How to make your first deposit?</a></li>
+                <li><span class="dot">&middot;</span></li>
+                <li><a href="/help/how-to-buy-bitcoin-at-bitstamp/">How to buy Bitcoin at Bitstamp?</a></li>
+                <li><span class="dot">&middot;</span></li>
+                <li><a href="/faq/">FAQ</a></li>
+                <li><span class="dot">&middot;</span></li>
+                <li><a href="/pgp_key/">PGP Key</a></li>
+            </ol>
+        </li>
+        <li class="top-border inline-list">
+            <h4>TOOLS</h4>
+            <ol>
+                <li><a href="/">Overview</a></li>
+                <li><span class="dot">&middot;</span></li>
+                <li><a href="/api/">API</a></li>
+            </ol>
+        </li>
+    </ol>
+    <ol id="footer-bottom-mobile">
+        <ol>
+            <li id="credit-cards-mobile">
+                <img src="/s/icons/visa_logo.svg" class="visa-logo-footer" alt="visa logo">
+                <img src="/s/icons/mastercard_logo.svg" class="mastercard-logo-footer" alt="mastercard logo">
+            </li>
+            <li id="social-mobile">
+                <a href="https://twitter.com/Bitstamp" target="_blank"><img src="/s/icons/twitter_logo.svg" class="twitter-logo-footer" alt="twitter logo"></a>
+                <a href="https://www.linkedin.com/company/bitstamp" target="_blank"><img src="/s/icons/linkedin_logo.svg" class="linkedin-logo-footer" alt="linkedin logo"></a>
+                <a href="https://www.facebook.com/Bitstamp" target="_blank"><img src="/s/icons/facebook_logo.svg" class="facebook-logo-footer" alt="facebook logo"></a>
+            </li>
+        </ol>
+        <ol class="top-border">
+            <li>
+                <img src="/s/icons/serving_logo.svg" class="serving-logo-footer" alt="serving bitcoin industry since 2011 icon">
+            </li>
+            <li>
+                <img src="/s/icons/over-3million-users-footer.svg" class="over-million-footer" alt="over 3 million users icon">
+            </li>
+        </ol>
+    </ol>
+</div>
+
+    </body>
+</html>
+
